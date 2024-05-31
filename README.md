@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web application for text summarization built using [SpaCy](https://spacy.io/) and [Flask](https://flask.palletsprojects.com/). The application allows users to input a block of text and receive a concise summary, leveraging natural language processing techniques.
+Hello there! I created a small data science project of text summarization.This project is a web application for text summarization built using [SpaCy](https://spacy.io/) and [Flask](https://flask.palletsprojects.com/). The application allows users to input a block of text and receive a concise summary, leveraging natural language processing techniques.
 
 ## Features
 
