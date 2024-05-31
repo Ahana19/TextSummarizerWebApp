@@ -22,7 +22,7 @@ This project is a web application for text summarization built using [SpaCy](htt
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/text-summarization-web-app.git
+    git clone https://github.com/Ahana19/TextSummarizerWebApp
     cd text-summarization-web-app
     ```
 
